@@ -4,7 +4,7 @@ Problem Statement
 The data scientists have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and find out the sales of each product at a particular store.
 
 The Data
-We have train (8523) and test (5681) data set consisting of 12 features, train data set has both input and output variable(s) We need to predict the sales for test data set.Two datasets are sued ie Train.csv and Test.csv
+We have train (8523) and test (5681) data set consisting of 12 features, train data set has both input and output variable(s) We need to predict the sales for test data set.Two datasets are used ie Train.csv and Test.csv
 
 Following machine learning algorithms are used
 1.Linear Regression
