@@ -20,7 +20,6 @@ Outlet_Location_Type	                The type of city in which the store is loca
 Outlet_Type                         	Whether the outlet is just a grocery store or some sort of supermarket
 Item_Outlet_Sales	                    Sales of the product in the particulat store. This is the outcome variable to be predicted.
 
-
 Following machine learning algorithms are used
 1.Linear Regression
 2.Multiple Linear Regression
