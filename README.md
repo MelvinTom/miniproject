@@ -1,24 +1,21 @@
-Supermarket-Sales-Prediction Problem
+Big Mart is an online one stop marketplace where you can buy or sell or advertise your merchandise at low cost. The goal is to make Big Mart the shopping paradise for buyers and the marketing solutions for the sellers. The ultimate goal is to prosper with customers. The project “SUPERMARKET SALES PREDICTION” aims to build a predictive model and find out the sales of each product at a particular store. Big Mart will use this model to understand the properties of products and stores which play a key role in increasing sales. This can also be done based on the hypothesis that should be done before looking at the data.
+This is done in order to predict the sales of the company stores in the future.The various processes used are:
+1.Exploring the data and Data Pre-processing
+2.Feature Engineering
+3.Creating Model
+4.Evaluation
 
-Problem Statement
-The data scientists have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and find out the sales of each product at a particular store.
+Alogorithms Used :
+Linear Regression, Multiple Linear Regression, Decision Tree Regression, XG Boost Regression, Random Forest Regression and KNN.
 
-The Data
-We have train (8523) and test (5681) data set consisting of 12 features, train data set has both input and output variable(s) We need to predict the sales for test data set.Two datasets are used ie Train.csv and Test.csv
+Concepts Used
+To build this application, various machine learning aspects are used, such as Supervised Learning task, Regression task. Supervised learning will help you to understand the flow of data and knowing the sale prices, etc. The regression task uses algorithms to predict sales prices. 
 
-Following machine learning algorithms are used
-1.Linear Regression
-2.Multiple Linear Regression
-3.Random Forest 
-4.XG Boost Regression
-5.Decision Tress
-
-
-Steps for developing this project
-1.Preprocessing
-2Visualization
-3.Feature Engineering
-4.Feature Transformation
-5.Model Building
+Team Members
+This project is done by a 4 member team includes:
+•	Asha Issac
+•	Jeswin James
+•	Melvin Tom
+•	Nayana Raju
 
 
